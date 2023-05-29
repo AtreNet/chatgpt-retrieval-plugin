@@ -4,7 +4,7 @@ info:
   description: A retrieval API for querying and filtering documents from Rapyd's website based on natural language queries and metadata
   version: 1.0.0
   servers:
-    - url: https://main.d2hwm8x1ssjhs8.amplifyapp.com/
+    - url: https://your-app-url.com/
 paths:
   /query:
     post:
